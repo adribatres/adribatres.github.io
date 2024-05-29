@@ -27,7 +27,7 @@ a {
 body {
   font-family: "Raleway", sans-serif;
   
-  background-image: url('fondo.jpg');
+  background-image: url('./assets/fondo.jpg');
   background-repeat: no-repeat; /* evita que la imagen se repita */
   background-size: cover; /* ajusta la imagen para que cubra todo el fondo */
 }
